@@ -1,1 +1,1 @@
-This is where data and data-loading commands go.
+This is where all the Jupyter notebooks go for interactive exploration.

@@ -1,1 +1,1 @@
-This is where all experiments go.
+This is where all the experimental data, including logs and checkpoints, should go.

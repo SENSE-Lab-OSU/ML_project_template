@@ -1,5 +1,6 @@
 #Remove Data folder recursively for exclusions to apply
 data/*
+experiments/*
 
 #skip any README, .py or .gitkeep
 !*README*
@@ -23,5 +24,3 @@ checkpoint
 __pycache__
 *.py[cod]
 *$py.class
-
-

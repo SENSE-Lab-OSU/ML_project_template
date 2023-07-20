@@ -1,2 +1,2 @@
-# ML_project_template_1
+# ML_project_template
 A template for structuring ML projects.
